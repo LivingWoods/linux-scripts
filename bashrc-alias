@@ -1,0 +1,5 @@
+# Custom Alias
+alias jprojects='cd /mnt/c/Projects/'
+alias jpython='cd /mnt/c/Projects/Python'
+alias nenv=''
+alias aenv=''
