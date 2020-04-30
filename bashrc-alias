@@ -1,5 +1,6 @@
 # Custom Alias
 alias jprojects='cd /mnt/c/Projects/'
-alias jpython='cd /mnt/c/Projects/Python'
+alias jpython='cd /mnt/c/Projects/Python/'
+alias jweb='cd /mnt/c/Projects/Web\ Development/'
 alias nenv='bash /home/livingwoods/linux-scripts/newEnv.sh'
 alias aenv='read env_name; source /mnt/c/Projects/Python/$env_name/bin/activate'
